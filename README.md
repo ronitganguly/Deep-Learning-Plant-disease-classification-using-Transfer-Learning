@@ -1,4 +1,4 @@
-# Deep-Learning-Plant-disease-image-tagging
+# Deep-Learning-Plant-disease-classification
 # The attributions of the data source have been mentioned in the report.
 # Highlighted concepts used:
 1) Pytorch.
