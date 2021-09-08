@@ -7,7 +7,7 @@
 4) Transfer Learning - **Resnet50, VGG16-Batch Normalization version, Alexnet.**
 5) Data Visualization.
 
-### Please read the pdf report to understand about the data or directly check the code where for every cell, a detailed description has been provided. 
+### Please read the [pdf report](Ronit Ganguly 2487190G.pdf) to understand about the data or directly check the code where for every cell, a detailed description has been provided. 
 
 
 ## Data Distribution:
