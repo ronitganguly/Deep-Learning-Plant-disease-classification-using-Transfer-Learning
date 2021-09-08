@@ -30,7 +30,7 @@
 --Both the validation set and the testing set contain 50 images per class.
 
 ## Visualization:
- INSERT IMAGE HERE
+![Plant](/Images/Capture1.PNG)
 
 ### Some basic inferences and challenges:
 --All the images have three channels.
@@ -49,20 +49,16 @@ architecture.
 
 ### Training Loss Curve:
 
-INSERT IMAGE HERE
-
-### Confusion Matrix:
-
-INSERT IMAGE HERE
+![Plant](/Images/Capture2.PNG)
 
 ## Resnet50:
 
 ### Training Loss curve:
 
-INSERT IMAGE HERE
+![Plant](/Images/Capture4.PNG)
 
 ### Confusion Matrix:
 
-INSERT IMAGE HERE
+![Plant](/Images/Capture5.PNG)
 
 
